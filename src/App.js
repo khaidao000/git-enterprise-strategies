@@ -17,6 +17,8 @@ function App() {
         >
           Learn React
         </a>
+        <p> Hello World! </p>
+        <p> My name is Khai Dao and this is my project </p>
       </header>
     </div>
   );
